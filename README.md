@@ -1,7 +1,7 @@
 ## instagram-account-creator
 instagram-account-creator  ios request, last version
 
-Contacte telegram https://t.me/@anisarino
+Contacte telegram https://t.me/anisarino
 
 telegram channel https://t.me/toolsgi
 
